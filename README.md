@@ -1,8 +1,6 @@
-# Aditya⚡
-
+### <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> Hey, I'm Aditya 
+---
 <div align="center">
-
-Building intelligent systems
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&pause=1000&color=A78BFA&center=true&width=500&lines=Building+systems+that+think+%26+scale;Data+Science+%7C+Agentic+AI+%7C+Data+Engineering;Python+%7C+FastAPI+%7C+AWS+%7C+PySpark)](https://git.io/typing-svg)
 </div>
