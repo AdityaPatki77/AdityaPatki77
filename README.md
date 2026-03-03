@@ -83,7 +83,7 @@ Building intelligent systems
 
 ### 🤝 Let's Connect
 
-* 💼 LinkedIn: https://linkedin.com/in/aditya-patki
+* 💼 LinkedIn: https://www.linkedin.com/in/aditya-patki-6aaa22252/
 * 📧 Email: adityapatki5@gmail.com
 * 🐙 GitHub: https://github.com/AdityaPatki77
 
